@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         עיצוב צאט מתמחים.טופ
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  New style for chat in mitmachim.top
 // @author       צדיק וטוב לו
 // @match        https://mitmachim.top/*
@@ -21,7 +21,7 @@ sy.innerHTML = `
 /* רקע הצ'אט בצבע חום-בז' עם תבנית הציורים - מותאם לחלונית קטנה ולמסך מלא */
 .modal-content, [component="chat/main-wrapper"] {
     background-color: #efeae2 !important;
-    background-image: url(https://mitmachim.top/assets/uploads/files/1689758993836-%D7%94%D7%95%D7%A8%D7%93%D7%94.png) !important;
+    background-image: url(https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-mitmachim.top/refs/heads/main/background.png) !important;
     background-repeat: repeat !important;
 }
 
