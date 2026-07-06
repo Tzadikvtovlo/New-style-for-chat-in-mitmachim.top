@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         עיצוב צאט מתמחים.טופ
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  New style for chat in mitmachim.top
-// @author       צדיק וטוב לו
+// @author       צדיק וטוב לו וההודי של gemini
 // @match        https://mitmachim.top/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-mitmachim.top/main/Tampermonkey.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-mitmachim.top/main/Tampermonkey.user.js
