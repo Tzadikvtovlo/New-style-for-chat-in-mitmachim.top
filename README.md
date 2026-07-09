@@ -1,6 +1,6 @@
 # New-style-for-chat-in-mitmachim.top
 
-עיצוב נקי (בסגנון וואצאפ) עבור צאטים של [פורום מתמחים.טופ](https://mitmachim.top/).
+סקריפט Tampermonkey להחלת עיצוב נקי (בסגנון וואצאפ) על צאטים של [פורום מתמחים.טופ](https://mitmachim.top/).
 
 נוצר בסיוע צמוד של [gemini](https//gemini.google.com/app).
 
