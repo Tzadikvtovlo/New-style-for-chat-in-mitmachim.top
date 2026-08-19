@@ -1,10 +1,10 @@
-# New-style-for-chat-in-mitmachim.top
+# New style for chat in mitmachim.top
+
+סקריפט [Tampermonkey](https://www.tampermonkey.net/) להחלת עיצוב נקי (בסגנון וואצאפ) על צאטים של [פורום מתמחים.טופ](https://mitmachim.top/).
 
 להתקנה לחץ:
 
 https://github.com/Tzadikvtovlo/New-style-for-chat-in-mitmachim.top/raw/refs/heads/main/Tampermonkey.user.js
-
-סקריפט Tampermonkey להחלת עיצוב נקי (בסגנון וואצאפ) על צאטים של [פורום מתמחים.טופ](https://mitmachim.top/).
 
 נוצר בסיוע צמוד של [gemini](https//gemini.google.com/app).
 
