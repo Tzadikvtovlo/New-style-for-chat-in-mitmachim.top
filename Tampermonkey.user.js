@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         עיצוב צאט מתמחים.טופ
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  New style for chat in mitmachim.top
 // @author       צדיק וטוב לו וההודי של gemini
 // @match        https://mitmachim.top/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-mitmachim.top/main/Tampermonkey.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-mitmachim.top/main/Tampermonkey.user.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=mitmachim.top
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=mitmachim.top
 // @grant        none
 // ==/UserScript==
 
